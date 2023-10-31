@@ -1,0 +1,5 @@
+babel-loader :- specifically load js , (saas loaded to css...)
+@babel/core:- converting code (transpiler:- esc5 to web supported js codes)
+webpack :- all type files into small sized js or json file()
+babel/preset-react :- for jsx files
+webpack-dev-server --node development --open --hot  : (open :- open in new tab, hot :- no need to full reload)
